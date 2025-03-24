@@ -1,1 +1,1 @@
-# caos 
+Este código é uma simulação interativa de corpos celestes em 2D ou 3D, com a possibilidade de configurar parâmetros como a constante gravitacional, o modo de colisão (fusão ou elástica) e a visualização em 3D
